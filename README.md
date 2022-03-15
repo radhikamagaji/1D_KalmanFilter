@@ -3,7 +3,9 @@
 Project Name: Predicting Pedestrian position using Kalman Filter.
 
 Team Members: Fidan Aydamirova, Radhika Magaji, Jyothish Babu
+
 College of Science and Engineering,
+
 Seattle University
 
 Problem Statement:
